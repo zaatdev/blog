@@ -2,7 +2,7 @@
 title: Hello World
 date: '2015-05-01T22:12:03.284Z'
 description: 'Hello World'
-image: '../../.cache/gatsby-source-git/blog-list/test-post/salty_egg.jpg'
+image: ../../.cache/gatsby-source-git/blog-list/test-post/salty_egg.jpg
 ---
 
 This is my first post on my new fake blog! How exciting!
