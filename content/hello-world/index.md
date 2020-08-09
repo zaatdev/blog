@@ -2,6 +2,9 @@
 title: Hello World
 date: "2015-05-01T22:12:03.284Z"
 description: "This is the Description of Hello world post"
+author: Ahd Hani
+authortitle: Software Dev
+authorcompany: Zaat.Dev
 image: ./salty_egg.jpg
 ---
 
