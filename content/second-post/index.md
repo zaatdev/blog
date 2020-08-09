@@ -2,6 +2,9 @@
 title: My Second Post!
 date: "2015-05-06T23:46:37.121Z"
 description: "This is the Description of the second post"
+author: Ghassan Maslamani
+authortitle: Senior Dev
+authorcompany: Zaat.Dev
 image: ./my-second-post.jpg
 ---
 
