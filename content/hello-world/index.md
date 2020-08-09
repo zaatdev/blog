@@ -1,14 +1,8 @@
 ---
 title: Hello World
-<<<<<<< HEAD:content/hello-world/hello-world.md
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 image: ./salty_egg.jpg
-=======
-date: '2015-05-01T22:12:03.284Z'
-description: 'Hello World'
-image: salty_egg.jpg
->>>>>>> 1ebd6ce318b659db4a2572c23eca87465e2d9cd0:hello-world.md
 ---
 
 This is my first post on my new fake blog! How exciting!
