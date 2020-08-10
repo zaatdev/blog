@@ -6,6 +6,7 @@ author: Ahd Hani
 authortitle: Software Dev
 authorcompany: Zaat.Dev
 image: ./salty_egg.jpg
+tags: hello, world
 ---
 
 This is my first post on my new fake blog! How exciting!
