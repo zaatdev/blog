@@ -6,7 +6,6 @@ author: Ghassan Maslamani
 authortitle: Senior Dev
 authorcompany: Zaat.Dev
 authortwitter: ghassanmaslamani
-authorgithub: Zeus3hd
 image: ./my-second-post.jpg
 tags: second, post
 ---
