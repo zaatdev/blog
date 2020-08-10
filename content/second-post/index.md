@@ -5,6 +5,7 @@ description: "This is the Description of the second post"
 author: Ghassan Maslamani
 authortitle: Senior Dev
 authorcompany: Zaat.Dev
+authortwitter: ghassanmaslamani
 image: ./my-second-post.jpg
 tags: second, post
 ---
