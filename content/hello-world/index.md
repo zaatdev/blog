@@ -6,6 +6,7 @@ author: Ahd Hani
 authortitle: Software Dev
 authorcompany: Zaat.Dev
 authortwitter: ahdhani
+authorgithub: Zeus3hd
 image: ./salty_egg.jpg
 tags: hello, world
 ---
