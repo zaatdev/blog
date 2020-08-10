@@ -6,6 +6,7 @@ author: Ghassan Maslamani
 authortitle: Senior Dev
 authorcompany: Zaat.Dev
 image: ./my-second-post.jpg
+tags: second, post
 ---
 
 Wow! I love blogging so much already.
