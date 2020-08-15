@@ -10,6 +10,11 @@ authorgithub: Zeus3hd
 image: ./salty_egg.jpg
 tags: hello, world
 ---
+Alright this to make sure the edit is taking... 
+
+"scaled" :scales:
+"balance_scale" :balance_scale:
+
 
 This is my first post on my new fake blog! How exciting!
 
