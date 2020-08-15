@@ -14,9 +14,8 @@ Alright this to make sure the edit is taking...
 
 "scaled" :scales:
 humm
-"balance_scale" :balance_scale:
-
-
+"balance_scale" 
+:balance_scale:
 This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
