@@ -9,6 +9,7 @@ authortwitter: ghassanmaslamani
 authorgithub: Zeus3hd
 image: ./my-second-post.jpg
 tags: second, post
+type: blog
 ---
 
 Wow! I love blogging so much already.
