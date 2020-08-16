@@ -9,6 +9,7 @@ authortwitter: ghassanmas
 authorgithub: ghassanmas
 image: ./my-second-post.jpg
 tags: third, new, post, guide,
+type: blog
 ---
 
 # h1 Heading 8-)
