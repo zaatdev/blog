@@ -9,6 +9,7 @@ authortwitter: ahdhani
 authorgithub: Zeus3hd
 image: ./salty_egg.jpg
 tags: hello, world
+type: blog
 ---
 Alright this to make sure the edit is taking... 
 
