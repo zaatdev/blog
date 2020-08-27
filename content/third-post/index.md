@@ -10,6 +10,7 @@ authorgithub: ghassanmas
 image: ./my-second-post.jpg
 tags: third, new, post, guide,
 type: blog
+issueurl: https://github.com/zaatdev/blog/issues/2
 ---
 
 # h1 Heading 8-)
