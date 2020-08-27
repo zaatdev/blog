@@ -10,6 +10,7 @@ authorgithub: Zeus3hd
 image: ./salty_egg.jpg
 tags: hello, world
 type: blog
+issueurl: https://github.com/zaatdev/blog/issues/3
 ---
 Alright this to make sure the edit is taking... 
 
