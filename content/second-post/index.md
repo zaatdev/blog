@@ -10,6 +10,7 @@ authorgithub: Zeus3hd
 image: ./my-second-post.jpg
 tags: second, post
 type: blog
+issueurl: https://github.com/zaatdev/blog/issues/4
 ---
 
 Wow! I love blogging so much already.
