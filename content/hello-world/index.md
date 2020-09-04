@@ -7,7 +7,7 @@ author_title: Keeping things run smoothly
 author_company: Zaat.dev
 author_twitter: zaatbot
 author_github: zaatbot
-image: ./salty_egg.png
+image: ./salty_egg.jpg
 tags: meta, markdown, gatsbyJS, writing, tutorial
 type: blog
 issue_number: 3
