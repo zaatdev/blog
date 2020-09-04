@@ -9,7 +9,7 @@ author_twitter: ghassanmaslamani
 author_github: Zeus3hd
 image: ./my-second-post.jpg
 tags: second, post
-issu_eurl: 4
+issue_number: 4
 ---
 
 Wow! I love blogging so much already.
