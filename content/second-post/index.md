@@ -3,14 +3,13 @@ title: My Second Post!
 date: "2015-05-06T23:46:37.121Z"
 description: "This is the Description of the second post"
 author: Ghassan Maslamani
-authortitle: Senior Dev
-authorcompany: Zaat.Dev
-authortwitter: ghassanmaslamani
-authorgithub: Zeus3hd
+author_title: Senior Dev
+author_company: Zaat.Dev
+author_twitter: ghassanmaslamani
+author_github: Zeus3hd
 image: ./my-second-post.jpg
 tags: second, post
-type: blog
-issueurl: https://github.com/zaatdev/blog/issues/4
+issu_eurl: 4
 ---
 
 Wow! I love blogging so much already.
