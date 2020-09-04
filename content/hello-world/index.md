@@ -10,7 +10,7 @@ author_github: zaatbot
 image: ./picture_add_blog.png
 tags: meta, markdown, gatsbyJS, writing, tutorial
 type: blog
-issue-number:3
+issue_number:3
 ---
 
 Alright this to make sure the edit is taking... 
