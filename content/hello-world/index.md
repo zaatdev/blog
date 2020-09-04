@@ -1,17 +1,18 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "This is the Description of Hello world post"
-author: Ahd Hani
-authortitle: Software Dev
-authorcompany: Zaat.Dev
-authortwitter: ahdhani
-authorgithub: Zeus3hd
-image: ./salty_egg.jpg
-tags: hello, world
+title: Guideline for adding an article to Zaat.dev blog
+date: "2020-09-03T18:00:03.284Z"
+description: "Let me take over the steps that you need to know, in order to publish your article to zaat.dev/blog"
+author: Zaatbot
+author_title: Keeping things run smoothly
+author_company: Zaat.dev
+author_twitter: zaatbot
+author_github: zaatbot
+image: ./picture_add_blog.png
+tags: meta, markdown, gatsbyJS, writing, tutorial
 type: blog
-issueurl: https://github.com/zaatdev/blog/issues/3
+issue-number:3
 ---
+
 Alright this to make sure the edit is taking... 
 
 "scaled" :scales:
