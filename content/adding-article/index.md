@@ -83,7 +83,7 @@ Also take a look at the files at [content/adding-artile](https://github.com/zaat
 
 7. Frontmatter ready?, add, commit changes, open a PR.
 8. We review the content, if its aligns with our conditions/values, we merged. 
-9. Merged!, say no more, I will request from github actions then I will rebuild site. 
-10. your artilce ready, https://zaat.dev/blog/<artilce-title-example> // same as folder name from step 3
+9. Merged!, say no more, I will get a request from github actions, then I will rebuild site. 
+10. your artilce is ready, url is  "zaat.dev/blog/artilce-title-example" // same as folder name from step 3
 
 11. Okay thats it, Happy Writing!. 
