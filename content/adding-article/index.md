@@ -17,15 +17,15 @@ issue_number: 6
 ## Publish your blog, at Zaat.dev. 
 
 
-So you decided you wanna write an article in Zaat's blog, great we are happy to hear that, sharing information and knowledage is one of our core values at Zaat. 
+So you decided that you wanna write an article in Zaat's blog, that's great we are happy to hear that, sharing information and knowledge is one of our core values at Zaat. 
 
-First thing first make sure that the content of your article is aligned with Zaat's valus. 
+First thing first, make sure that the content of your article is aligned with Zaat's valus. 
 
 ### Conditions 
 
 **Orginal, Non-duplicate content only**.
   
-By publishing to zaat blog you agree that the content of the article wasn't and will not be published somewhere else. Aslo that you are the original "Owner" author the cotnent. 
+By publishing to zaat blog you agree that the content of the article wasn't and will not be published somewhere else. Also that you are the original "Owner" author the cotnent. 
 We undersatnd that preventing writer to publish their content to other platform say like [meduim](https://medium.com/) or [dev.to](https://dev.to/), sounds like a confilct with our values of spreading knowldge, however we added this restriction in order to prevent SEO from lowering the zaat.dev ranking because of _duplicated content_. Once zaat.dev would be established and such factor wouldn't matter, we wouldn't think twice before removing this restriction.  
 
 
