@@ -41,7 +41,7 @@ In order to add your blog content to zaa't blog, you would need to have a github
 1. clone the repo, cd to it. e.g. `git clone <repo-url> && cd blog`
 2. create a new branch e.g. `git -b <artilcle-title>`
 3. create folder in `/content` e.g. ` mkdir article-title-example && cd article-title-example`
-4.Create an md file where all the coentent will be parsed from,  `touch index.md`. 
+4. Create an md file where all the coentent will be parsed from,  `touch index.md`. 
 5. Start writing! you use your favourite editor to write, we also support emoji :tada:.   
 6. Done writing ?, alright add these frontmatter info **At top the md file, before evrtying else**. 
 ```
