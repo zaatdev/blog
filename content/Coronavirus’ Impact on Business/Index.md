@@ -3,6 +3,7 @@ title: Coronavirus’ Impact on Business - Save Yours!
 date: 2020-09-09T16:00:00.284Z
 description: How to save your business during Coronavirus pandemic
 author: Abeer Albada
+author_title: Content Craetor
 author_company: Zaat.dev
 author_twitter: AbeerAlbada
 author_github: abeeralbada
