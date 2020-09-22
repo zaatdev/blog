@@ -4,7 +4,7 @@ date: 2020-09-22T20:00:00.284Z
 description: A simple guide for building your component library using React, Styled Components and Styled System
 author: Yosef Alnajjar
 author_title: Full Stack Developer
-author_company: Captur
+author_company: Captur, Zaat(freelancer)
 author_twitter: yosefanajjar
 author_github: yosefanajjar
 image: ./cover.png
