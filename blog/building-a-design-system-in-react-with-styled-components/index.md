@@ -521,3 +521,5 @@ And now we are able to use the variant prop in our `Button` component.
 This was a basic guide to get you started with building design systems and there is more stuff that could be discovered so I encourage you to search more about tools that can help you and your team, one tool I would recommend is **[Storybook](https://storybook.js.org/)** it is such a great way to display and document your components and really helpful if you are working with a designer so check it out. In the end, I hope you've learned a few things from this guide and are able to write some code in a better way than before, thanks for reading my article.
 
 The final code of the guide can be found [here](https://github.com/yosefanajjar/react-design-system) on Github
+
+Cover Photo by [Christopher Gower](https://unsplash.com/@cgower) on [Unsplash](https://unsplash.com/)
