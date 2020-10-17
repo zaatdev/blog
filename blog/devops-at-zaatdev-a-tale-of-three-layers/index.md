@@ -44,7 +44,7 @@ In this layer, we handle the services or local servers which Nginx has proxy . A
 
 ### Let’s get our hands dirty! (Bottom-up)
 
-#### First Layer: pm2/built files
+### First Layer: pm2/built files
 
 Pm2 could be used in a simple or sophisticated way. Let’s assume you have nodejs app, which definitely has “package.json” with a start script, all what you need to do with pm2 is to let it run is:
 
