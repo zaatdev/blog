@@ -19,7 +19,7 @@ An instance can be rented from [AWS](https://aws.amazon.com/), [Azure](https://a
 
 Now and after defining what an instance means, we’ll go over the three main layers, as a **top to bottom approach**, then I will introduce some trivial code snippets but starting from as a **bottom to top**.
 
-#### Domain Name Servers: First Layer
+### Domain Name Servers: First Layer
 
 You can consider the domain name servers as a phone contacts app, through it, you can store your family members and friends numbers, so whenever you want to reach them out, you just type their names and give them a call. This feature is basic but important and any domain you buy should support it.
 Nowadays, things got a little bit complicated by dropping the old fashion “www” from websites’ addresses, even though you still can have the same domain name with different prefixes. Going back to our ref example, the phone contacts app, is there any chance that this app doesn't support adding multiple phone numbers in a single contact!
@@ -28,7 +28,7 @@ So, let's say that you have several subdomains like “mail.example.com”, “a
 
 Domain names are an extra layer added over a typical IP layer, so when users want to visit a site they don’t have to memorize numbers -IPs-, just like phone numbers! Each time you want to call someone, you just type their name on the phone contacts app without worrying about what their actual phone number is. However, domain names are registered across the web and distributed around the globe. Each registry has two main values: the IP “32.34.23.34” and a corresponding domain name “zaat.dev”. So when you type in a URL, the browser looks up the IP address for the domain name, then the browser sends a request to the server, the server sends back a response, if everything is OK the browser then redirects the request to the second layer…
 
-#### Nginx: Alternative Apache
+### Nginx: Alternative Apache
 
 [Nginx](nginx.org) is the main gate for the instance, Nginx is like a traffic officer, its main role is to direct the request according to thier CNAME, URL, etc. to its destination in our instance.
 
@@ -38,13 +38,13 @@ Since Nginx is our main gate, it makes sense to let it handle the encryption lay
 
 Other features Nginx may offer, or that it is commonly used for, is to intervene with request headers. For example, Nginx could add geolocation headers for each request by interrupting the requested IP address. Then, it can for example redirect it to a localized version of the app/site or set specific headers accordingly.
 
-#### Third Layer: Local Server, File System, a Containerized App
+### Third Layer: Local Server, File System, a Containerized App
 
 In this layer, we handle the services or local servers which Nginx has proxy . At Zaat.dev, almost all of our apps are node-based, so it’s easy to manage the running app using [pm2](https://pm2.keymetrics.io/).
 
 ### Let’s get our hands dirty! (Bottom-up)
 
-#### First Layer: pm2/build files
+#### First Layer: pm2/built files
 
 Pm2 could be used in a simple or sophisticated way. Let’s assume you have nodejs app, which definitely has “package.json” with a start script, all what you need to do with pm2 is to let it run is:
 
@@ -52,13 +52,13 @@ Pm2 could be used in a simple or sophisticated way. Let’s assume you have node
 pm2 start --name myapp "node start" // you can pass port number here, otherwise pm2 take app default, lets assume port is 5000 here
 ```
 
-Alright, now suppose, you static website, no matter which framework it is based on,usually static sites are built before being deployed, and once built it should put the file in a specific directory. Let's assume your site has build script in package.json, and its output directory is `/build`
+Alright, now suppose, you have static website, no matter which framework it is based on,usually static sites are built before being deployed, and once built it usually at files are put in a specific directory. Let's assume your site has build script in `package.json`, and its output directory is `/build`
 
 ```bash
 npm run build // directory is site_root/build
 ```
 
-#### Second Layers: Nginx
+### Second Layer: Nginx
 
 Now that we have a static site built and another app running on localhost, we can set the configuration of nginx as follows:
 
@@ -95,7 +95,6 @@ And for the site we can do something like:
 server {
 
     server_name .exaxmple.com www.example.com;
-
     root /home/ubuntu/site_root/build;
     location / {
            index: index.html // path is relative to the root
@@ -105,10 +104,16 @@ server {
 ```
 
 Now, that your configuration is ready, you can restart the nginx, by running
+First make sure no syntax error in configuration, we run:
 
 ```bash
-`sudo service nginx reload` //run this first make sure no syntax error in configuration.
-`sudo service nginx restart` // re run nginx with the tested configuration by previous step.
+sudo service nginx reload
+```
+
+Re starting nginx with the tested configuration by previous step.
+
+```bash
+sudo service nginx restart
 ```
 
 **Note:** It's importnat each time you change the nginx configuration to run `reload` first, otherwise all your servies may be down until you fix a syntax error!.
@@ -125,7 +130,7 @@ sudo certbot --nginx
 Alright, at this point we are done with the instance in the shell/bash level, but before setting the domain name, you need to make sure your instance is running on a static ip and to get it. With AWS this is easy, you would need allocate an elastic ip address then assign/assoicated it to the running instance.
 Let's assume our static ip address is "34.250.253.64"
 
-#### Third layer: Domain Name
+### Third layer: Domain Name
 
 First thing first, is to tell your domain register service, is to direct all requests (root) to the ip address, each configuration setting is called a _record_
 
@@ -140,7 +145,7 @@ Here is how the configuration may look like, if you are using google domain: (ig
 
 Lastly and more importantly: You can make other sites (domain names) listen to your instance/ the nginx server, simply by setting their root ip same as the original level, and then adding a new server block in nginx configuration accordingly.
 
-#### The more I know the less I know
+### The more I know the less I know...
 
 **Note:** This may not be the best approach, i.e. running all of your apps under a single instance, consider the situation of which while you are trying to update an app but you have to upgrade node before, but other apps are dependent on the current specific version!..etc And this I guess is where Docker/Kubernates should play a critical role, hope this may be a story for another day..
 
