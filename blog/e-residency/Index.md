@@ -29,7 +29,7 @@ Simply, e-Residency allowed us to establish a trusted Estonian limited company â
 ### How does it work?
 To [become an e-Resident Estonian](https://e-resident.gov.ee/start-a-company/), you have to [apply online](https://apply.gov.ee), pay a state fee, and choose a pickup location for your digital ID. This digital ID card enables you to use Estonian public and private sector services and resources, sign documents remotely, and encrypt files. Then, you should obtain an Estonian legal address, register your company online in Estonia, and find a fintech partner to cover your banking needs. After all that, you will have all the tools needed to conduct and grow your business globally.
 
-The bottom line is that the e-Residency program of Estonia is an innovative idea, where it allows non-EU entrepreneurs who are thinking of starting a company or who already had one, that is targeting the European market, to run their business from anywhere while being integrated into the EU market, and to take advantage of Estonia's flexible business environment, easy tax system, and digitally-enabled society.
+The bottom line is that the e-Residency program of Estonia is an innovative idea, where it allows non-EU entrepreneurs who are thinking of starting a company or who already have one, which is targeting the European market, to run their business from anywhere while being integrated into the EU market, and to take advantage of Estonia's flexible business environment, easy tax system, and digitally-enabled society.
 
 #### *Disclaimer:*
 
