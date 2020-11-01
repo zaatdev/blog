@@ -1,6 +1,6 @@
 ---
 title: Zaat.dev is now registered as a trusted EU company.
-date: 2020-01-11T02:00:00.284Z
+date: 2020-11-01T02:00:00.284Z
 description: “Zaatdev OÜ” == “16084536” == Zaat.dev is now registered as a trusted EU company.
 author: Abeer Albada
 author_title: Content Craetor
