@@ -9,7 +9,7 @@ author_twitter: AbeerAlbada
 author_github: abeeralbada
 image: ./e-residency.png
 tags: e-Residency, EU Company, Estonian Company, Business, EU
-issue_number: 
+issue_number: 16
 ---
 
 # Zaat.dev is now registered as a trusted EU company, through the Estonian e-Residency program!
