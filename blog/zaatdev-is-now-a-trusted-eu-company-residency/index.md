@@ -1,7 +1,7 @@
 ---
-title: Zaat.dev is now registered as a trusted EU company, through the Estonian e-Residency program.
+title: Zaat.dev is now registered as a trusted EU company.
 date: 2020-01-11T02:00:00.284Z
-description: Zaat.dev is now registered as a trusted EU company.
+description: “Zaatdev OÜ” == “16084536” == Zaat.dev is now registered as a trusted EU company.
 author: Abeer Albada
 author_title: Content Craetor
 author_company: Zaat.dev
@@ -33,4 +33,4 @@ The bottom line is that the e-Residency program of Estonia is an innovative idea
 
 #### *Disclaimer:*
 
-*Our company “Zaat.dev” is registered as “Zaatdev OÜ” in Estonia Central Commercial Register. So, sometimes we trade under our name ‘Zaat.dev” which is not our registered name. Therefore, it is noteworthy that our trading/business name “Zaat.dev” is slightly different from our business registered name “Zaatdev OÜ”, and both are legally to represent our company “Zaatdev OÜ”.*
+*Our company “Zaat.dev” is registered as “Zaatdev OÜ” in Estonia Central Commercial Register. So, sometimes we trade under our name ‘Zaat.dev” which is not our registered name. Therefore, it is noteworthy that our trading/business name “Zaat.dev” is slightly different from our business registered name “Zaatdev OÜ”.
