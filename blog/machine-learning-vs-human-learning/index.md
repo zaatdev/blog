@@ -32,9 +32,7 @@ So, I will use the following analogy throughout the article to make the complex 
 
 In the next section, I will talk about machine learning, by taking a concept/term of machine learning and map it out to its corresponding element in the teaching analogy above.
 
-Alright, enough intro, let’s it’s time to dig in!
-
-
+Alright, enough intro, it’s time to dig in!
 
 ## Machine learning Concepts and Terms 
 
@@ -61,9 +59,6 @@ From a machine learning perspective, the more images we show of different types 
 
 
 
-
-
-
 #### Exams/Quizzes Corresponding to Testing Data
 Exams are used to tell if the students have met the class requirements, while testing data is used to tell how accurate our machine learning is. In the exams, students should answer the questions, on the other hand, a machine learning model is tested by feeding it data and then comparing its prediction with the real answers.
  
@@ -73,8 +68,8 @@ To go back to the example above, testing would be as if we pass show images to t
 
 ## Advanced Concepts 
 
+
 #### Transfer Learning Corresponding to Prerequisite courses 
-Our educational system is built on the fact that is students taking a class for grammar should have taken the alphabet class, otherwise the course might be useless, however one alternative is that if the grammar class stars by teaching the students the alphabets then teaching the grammar roles, however in this approach the class time should be long to accommodate for the time required for teaching the alphabets. 
 
 Our educational system is built on the fact that students who are taking a grammar class, should have taken the alphabet class otherwise, the course might be useless.
 
@@ -89,3 +84,28 @@ The teacher might ask himself or herself, what the optimal class time, e.g., 30,
 
 One way the teacher can learn more about this kind of stuff would be by taking courses focused on teaching techniques. 
 But wait, let’s recap our suggestions here, the teacher is taking a class, so the teacher is going to be a student and I said earlier that a student corresponds to a machine learning model. 
+
+So yeah, that's it, we can build a machine learning model that is used for solving a specific problem which is a machine learning developer/engineer while creating a machine learning model. 
+
+This is in fact a heavily researched area in machine learning, there has been a lot of focus on it recently. 
+
+
+
+## Ethics of Artificial intelligence/Machine learning
+Artificial intelligence or machine learning could be thought of as a “double-edged sword”, it has astonishing capabilities but if it's not used cautiously it might lead to unfortunate consequences. 
+
+Consider the case in which a machine learning model is being trained with the goal of keeping users (on-screen or/and engaging). The model understands that a user, X, is spending a lot of time reading an article or a post if the post is correlated with specific keywords. 
+ 
+Now, each time the user X opens the app, it keeps on suggesting/showing articles/posts that are correlated with the same specific keywords.  
+
+Now if those keywords are about Tech related topics, the model would be beneficial for user X, but what about if it turns out the keywords are related to a conspiracy theory or fake news. The consequence would be that the model will help spread fake news or other harmful content, though. The model doesn't care what is the content about, it just has one goal which is to keep a user on the screen. 
+
+So, if the model is kept without moderation/auditing, it might really have very harmful effects on society.
+
+
+## Resources
+Alright if you are looking to start your technical background in machine learning, I would suggest intro to [machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning), I would also suggest the Stanford CS courses, their course material is online and accessible to anyone for free as well as their lectures, for example, this [CS229 Machine learning course](https://see.stanford.edu/Course/CS229).
+
+After building your foundational machine learning skills, you choose to go in-depth according to what area you want to specialize in.  for example, [computer vision](http://cs231n.stanford.edu/) or [Natural language processing (NLP)](http://web.stanford.edu/class/cs224n/).
+
+However, if you are just interested in learning in-depth about artificial intelligence but without going technical. I would suggest these two long blog posts by [waitbuthwhy.com blog](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). 
