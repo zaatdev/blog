@@ -1,7 +1,7 @@
 ---
 title: Machine Learning vs Human Learning
 date: 2021-03-10T16:30:00.284Z
-description: Understand machine learning as human learning ,an intro to machine learning a subset of artificial intelligence
+description: Understand machine learning by comparing it to human learning ,an intro to machine learning a subset of artificial intelligence
 author: Ghassan Maslamani
 author_title: A byte of everything
 author_company: zaat.dev
@@ -11,6 +11,9 @@ image: ./cover_machine_learning.png
 tags: AI, machine_learning, data_analytics, artificial_intelligence
 issue_number: 17
 ---
+
+## Understand machine learning as human learning ,an intro to machine learning a subset of artificial intelligence
+
 As you wake up, you unlock your phone using the face recognition feature. Now, you’re ready to commute, so you choose your favorite app to get the fastest route! then while commuting, you have no idea what to listen to, so you just hit play on your favorite music app. Or, you wonder what to read! Oh, you got a list of similar articles that matches what you like.
 
 The one thing in common between these activities is that they all rely on **Machine Learning** (which is a subset of Artificial Intelligence), which plays a role in many aspects of our daily lives. 
