@@ -30,7 +30,7 @@ Domain names are an extra layer added over a typical IP layer, so when users wan
 
 ### Nginx: Alternative Apache
 
-[Nginx](nginx.org) is the main gate for the instance, Nginx is like a traffic officer, its main role is to direct the request according to thier CNAME, URL, etc. to its destination in our instance.
+[Nginx](https://nginx.org) is the main gate for the instance, Nginx is like a traffic officer, its main role is to direct the request according to thier CNAME, URL, etc. to its destination in our instance.
 
 To make it clearer, consider Nginx as a help desk for an organization that redirects requests to the right destination.(nginx usually does that mainly by matching the host name or CNAME with the first server block). If the requests were simple, Nginx can directly reopens to them (e.g. serving static files). Otherwise, Nginx can proxy the requests to a localhost server, it can be a node app, Django, Java enterprise, or any other localhost server you are running.
 
