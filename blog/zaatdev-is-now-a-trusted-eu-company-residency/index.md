@@ -19,7 +19,7 @@ Now, proudly we can announce that Zaat.dev became a trusted EU company. Through 
 
 The motivation behind taking the step forward and applying to the e-Residency program is to be a part of the worldwide virtual business environment that Estonia created. As it’s well-known, Estonia leads the way with advanced e-services. Basically, in Estonia every service related to business such as, business registration, annual reports, taxation, etc. can be done online, remotely and independently of one’s location.
 
-Moreover, Estonia's business environment has one of the highest levels of transparency in the world. And for the business sector, companies’ information has always been transparent to the public sector. One can simply lookup for any Estonian company through [Estonia's e-Business Register](https://ariregister.rik.ee/index?lang=eng) by entering the company name, e.g. “Zaatdev” or its registry code “16084536”.
+Moreover, Estonia's business environment has one of the highest levels of transparency in the world. And for the business sector, companies’ information has always been transparent to the public sector. One can simply lookup for any Estonian company through [Estonia's e-Business Register](https://ariregister.rik.ee/eng) by entering the company name, e.g. “Zaatdev” or its registry code “16084536”.
 
 ### What does e-Residency mean?
 e-Residency gives entrepreneurs the ability to apply for a digital residency in Estonia, even though they don’t actually live there.

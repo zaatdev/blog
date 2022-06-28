@@ -121,7 +121,7 @@ sudo service nginx restart
 Lastly, as mentioned before, certbot can easliy add an encryption layer for all the servers that are handled by nginx. you just need to tell it you are using nginx, then it reads the its configuration file, check which domain name are setted then asked you accordingly which one of them you want to add encryption layer for..etc
 On success, certbot rewrite the configuration file accordingly, e.g. setting path of generated key pairs...
 
-Im summary it could be as easy as this, refer to this [doc](https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx) for more information.
+Im summary it could be as easy as this, refer to this [doc](https://certbot.eff.org/instructions) for more information.
 
 ```bash
 sudo certbot --nginx
